@@ -1,4 +1,4 @@
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luís%20Henrique&fontAlignY=40&color=0:00c8ff,100:1467ff,ffcff&fontColor=fff)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaac%20Dantas&fontAlignY=40&color=0:00c8ff,100:1467ff,ffcff&fontColor=fff)
 
 <h1 align="center">Hi, I'm Isaac! 👋</h1>
 <h3 align="center">Studying to become a SOC Analyst</h3>
@@ -21,18 +21,13 @@
      <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&theme=github_dark_dimmed" />
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
-     <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=louuispy&layout=compact&theme=github_dark_dimmed" />
+     <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaasiDantas&layout=compact&theme=github_dark_dimmed" />
    </a>
    </div>
 </div>
 
 ----
   
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <h1 align="center">Languages and Tools</h1>
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/cybersecurity-original.svg" />
-</div>
-
 ----
 
 <h1 align="center">Contact<h1>
