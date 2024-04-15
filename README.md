@@ -30,7 +30,7 @@
   
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <h1 align="center">Languages and Tools</h1>
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" />
+  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/cybersecurity-original.svg" />
 </div>
 
 ----
