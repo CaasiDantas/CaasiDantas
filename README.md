@@ -1,4 +1,4 @@
- ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaac%20Dantas&fontAlignY=40&color=0:00c8ff,100:1467ff,ffcff&fontColor=fff)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Isaac%20Dantas&fontAlignY=40&color=851d86,100:7e2d7eff,ffcff&fontColor=fff)
 
 <h1 align="center">Hi, I'm Isaac! 👋</h1>
 <h3 align="center">Studying to become a SOC Analyst</h3>
